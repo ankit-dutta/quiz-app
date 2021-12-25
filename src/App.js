@@ -24,7 +24,7 @@ function App() {
 
     <Switch>
 
-      <Route path = '/' exact >
+      <Route path = '/quiz-app' exact >
         <Home name = {name} setName = {setName} />
       </Route>
 
